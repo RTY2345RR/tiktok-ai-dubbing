@@ -1,0 +1,5 @@
+# tiktok-ai-dubbing
+> Open-source CLI for TikTok AI dubbing: dubs TikTok, Instagram Reels, YouTube Shorts and X videos into another language with one cloned voice per speaker, 9:16 word-highlight captions, SRT and a translated post caption.
+- Install: uvx --from git+https://github.com/RTY2345RR/tiktok-ai-dubbing tiktok-ai-dubbing --help
+- Voice engine: https://miragea.ai/skills/miragea-audio/install.md
+- Demo: examples/tiktok-ai-dubbing-spanish-demo/
